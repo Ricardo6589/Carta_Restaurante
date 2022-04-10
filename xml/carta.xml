@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Menu>
+    <plato tipo="Bebidas">
+      <nombre>Agua</nombre>
+      <description>Agua natural marca Font vella</description>
+      <precio>1€</precio>
+      <calorias>0kcal</calorias>
+      <caracteristicas></caracteristicas>
+    </plato>
+    <plato tipo="Bebidas">
+      <nombre>Coca-Cola</nombre>
+      <description>Coca-Cola tamaño 330ml</description>
+      <precio>2,70€</precio>
+      <calorias>139kcal</calorias>
+      <caracteristicas></caracteristicas>
+    </plato>
+    <plato tipo="Bebidas">
+      <nombre>Fanta Limon/Naranja</nombre>
+      <description> Fanta tamaño 330ml</description>
+      <precio>2,20€</precio>
+      <calorias>175kcal</calorias>
+      <caracteristicas></caracteristicas>
+    </plato>
+    <plato tipo="Bebidas">
+      <nombre>Cerveza</nombre>
+      <description>Cerveza 330ml marca voll damm</description>
+      <precio>1,5€</precio>
+      <calorias>142kcal</calorias>
+      <caracteristicas></caracteristicas>
+    </plato>
+    <plato tipo="Bebidas">
+      <nombre>Vino</nombre>
+      <description>Botella de vino tinto</description>
+      <precio>3,10€</precio>
+      <calorias>625kcal</calorias>
+      <caracteristicas></caracteristicas>
+    </plato>
+    <plato tipo="Tapas">
+      <nombre>Patatas Bravas</nombre>
+      <description>Patatas con salsa brava</description>
+      <precio>3,70€</precio>
+      <calorias>543kcal</calorias>
+      <caracteristicas>
+        <item>img\gluten.png</item>
+        <item>img\huevo.png</item>
+        <item>img\sulfito.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="Tapas">
+      <nombre>Calamares a la Romana</nombre>
+      <description>Calamares rebozados</description>
+      <precio>4,70€</precio>
+      <calorias>198kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>
+      <item>img\huevo.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="Tapas">
+      <nombre>Croquetas</nombre>
+      <description>Croquetas de jamón caseras</description>
+      <precio>4,50€</precio>
+      <calorias>410kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>
+      <item>img\huevo.png</item>
+      <item>img\leche.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="Tapas">
+      <nombre>Queso</nombre>
+      <description>Tablas de queso gouda, cabra y roquefor</description>
+      <precio>3,80€</precio>
+      <calorias>500kcal</calorias>
+      <caracteristicas>
+      <item>img\leche.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="Tapas">
+      <nombre>Jamón</nombre>
+      <description>Jamón iberico de bellota</description>
+      <precio>4€</precio>
+      <calorias>299kcal</calorias>
+      <caracteristicas>
+      <item>img\huevo.png</item>
+      <item>img\cacahuete.png</item>
+      <item>img\soja.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="1r Plato">
+      <nombre>Paella Mixta</nombre>
+      <description>Arroz con carne y marisco</description>
+      <precio>9,80€</precio>
+      <calorias>440kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>
+      <item>img\pescado.png</item>
+      <item>img\molusco.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="1r Plato">
+      <nombre>Canelones</nombre>
+      <description>Canelones caseros con bechamel</description>
+      <precio>8,70€</precio>
+      <calorias>365kcal</calorias>
+      <caracteristicas>
+      <item>img\leche.png</item>
+      <item>img\gluten.png</item>
+      <item>img\soja.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="1r Plato">
+      <nombre>Espaguetis a la Boloñesa</nombre>
+      <description>Espaguetis con carne picada y tomate</description>
+      <precio>10,30€</precio>
+      <calorias>300kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>
+      <item>img\huevo.png</item>      
+      </caracteristicas>
+    </plato>
+    <plato tipo="1r Plato">
+      <nombre>Fideos con Costillas</nombre>
+      <description>Estofado de fideos con costillas</description>
+      <precio>11,60€</precio>
+      <calorias>562kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>      
+      </caracteristicas>
+    </plato>
+    <plato tipo="1r Plato">
+      <nombre>Garbanzos con arroz</nombre>
+      <description>Garbanzos con arroz y chorizo</description>
+      <precio>8,10€</precio>
+      <calorias>746kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="2n Plato">
+      <nombre>Bistec rebozado con patatas</nombre>
+      <description>Lomo de cerdo rebozado + patatas fritas</description>
+      <precio>7,90€</precio>
+      <calorias>537kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>
+      <item>img\huevo.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="2n Plato">
+      <nombre>Secreto con patatas</nombre>
+      <description>Secreto iberico a la brasa con patatas</description>
+      <precio>8,20€</precio>
+      <calorias>600kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="2n Plato">
+      <nombre>Salmón con tomate</nombre>
+      <description>Salmon a la plancha con salsa de tomate</description>
+      <precio>9,50€</precio>
+      <calorias>378kcal</calorias>
+      <caracteristicas>
+      <item>img\soja.png</item>
+      <item>img\sulfito.png</item>
+      <item>img\pescado.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="2n Plato">
+      <nombre>Lenguado</nombre>
+      <description>Lenguado a la plancha con salsa de ajo</description>
+      <precio>11,20€</precio>
+      <calorias>104kcal</calorias>
+      <caracteristicas><item>img\pescado.png</item></caracteristicas>
+    </plato>
+    <plato tipo="2n Plato">
+      <nombre>Costillas de cerdo con patatas</nombre>
+      <description>Costilla de cerdo con patatas fritas</description>
+      <precio>9,30€</precio>
+      <calorias>500kcal</calorias>
+      <caracteristicas><item>img\gluten.png</item></caracteristicas>
+    </plato>
+    <plato tipo="Postres">
+      <nombre>Sorbete de limon</nombre>
+      <description>Sorbete de limón</description>
+      <precio>3,30€</precio>
+      <calorias>62kcal</calorias>
+      <caracteristicas><item>img\leche.png</item></caracteristicas>
+    </plato>
+    <plato tipo="Postres">
+      <nombre>Helado de vainilla y xocolate</nombre>
+      <description>Tarrina de vainilla y xocolate</description>
+      <precio>2,90€</precio>
+      <calorias>290kcal</calorias>
+      <caracteristicas><item>img\leche.png</item></caracteristicas>
+    </plato>
+    <plato tipo="Postres">
+      <nombre>Coulant de chocolate</nombre>
+      <description>Bizcocho relleno de chocolate</description>
+      <precio>3,75€</precio>
+      <calorias>416kcal</calorias>
+      <caracteristicas><item>img\leche.png</item></caracteristicas>
+    </plato>
+    <plato tipo="Postres">
+      <nombre>Crema catalana</nombre>
+      <description>Crema catalana con azucar caramelizado</description>
+      <precio>3,20€</precio>
+      <calorias>100kcal</calorias>
+      <caracteristicas><item>img\leche.png</item></caracteristicas>
+    </plato>
+    <plato tipo="Postres">
+      <nombre>Profiteroles</nombre>
+      <description>Bolas de pasta choux rellena de xocolate</description>
+      <precio>4,90€</precio>
+      <calorias>288kcal</calorias>
+      <caracteristicas>
+      <item>img\leche.png</item>
+      <item>img\soja.png</item>
+      </caracteristicas>
+      
+    </plato>
+</Menu>
